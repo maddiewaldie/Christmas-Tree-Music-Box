@@ -33,7 +33,7 @@ alt = "Pictures of Christmas Tree Music Box">
 | 03 | 1 | Dental Floss | $0.96 | $0.96 |
 | 04 | 1 | Duct tape | $3.99 | $3.99 |
 | 05 | 1 | Electrical tape roll | $0.57 | $0.57 |
-| 06 | 1 | Green skein of garn | $2.99 | $2.99 |
+| 06 | 1 | Green skein of yarn | $2.99 | $2.99 |
 | 07 | 11 | Lego pieces (size: 2x2 brick) | $0.14 | $1.54 |
 | 08 | 1 | Lego pieces (size: 2x4 plate) | $0.14 | $0.14 |
 | 09 | 4 | Lego pieces (size: 4x8 plate) | $0.44 | $1.76 |
@@ -50,7 +50,7 @@ alt = "Pictures of Christmas Tree Music Box">
 | 20 | 7 | LED lights | N/A - ENGR 1 loan |
 | 21 | 1 | Piezo speaker | N/A - ENGR 1 loan |
 | 22 | 1 | Push button | N/A - ENGR 1 loan |
-| 23 | 10 | Resistors - 1kΩ | N/A - ENGR 1 loan |
-| 24 | 1 | Resistors - 100Ω | N/A - ENGR 1 loan |
+| 23 | 10 | Resistors - 1kΩ | N/A - ENGR 1 loan |
+| 24 | 1 | Resistors - 100Ω | N/A - ENGR 1 loan |
 | 25 | 1 | Servo motor | N/A - ENGR 1 loan |
 | 26 | 34 | Wires | N/A - ENGR 1 loan |
