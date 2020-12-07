@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This Christmas Tree Music Box is designed to spread Christmas cheer. On the command of a pushbutton, the Christmas tree will spin back and forth, play music, and blink LED lights.
+This Christmas Tree Music Box is designed to spread Christmas cheer. On the command of a pushbutton, the Christmas tree will spin back and forth, play music, and blink LED lights. This was a project for my Engineering 1 Lab.
 
 ## Overview of Code
 
