@@ -4,9 +4,6 @@
 
 This Christmas Tree Music Box is designed to spread Christmas cheer. On the command of a pushbutton, the Christmas tree will spin back and forth, play music, and blink LED lights.
 
-<img src = PictureCollage.jpeg
-alt = "Pictures of Christmas Tree Music Box">
-
 ## Overview of Code
 
 * **Flasher Class:** controls LED flashing sequence
@@ -21,6 +18,11 @@ alt = "Pictures of Christmas Tree Music Box">
 
 <img src = ElectronicsBoardGraphic.jpeg
 alt = "Electronics Board Layout">
+
+## Pictures of Christmas Tree Music Box
+
+<img src = PictureCollage.jpeg
+alt = "Pictures of Christmas Tree Music Box">
 
 ## Bill of Materials
 
