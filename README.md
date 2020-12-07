@@ -4,7 +4,7 @@
 
 This Christmas Tree Music Box is designed to spread Christmas cheer. On the command of a pushbutton, the Christmas tree will spin back and forth, play music, and blink LED lights.
 
-<img src = PictureCollage.jpg
+<img src = PictureCollage.jpeg
 alt = "Pictures of Christmas Tree Music Box">
 
 ## Overview of Code
@@ -19,7 +19,7 @@ alt = "Pictures of Christmas Tree Music Box">
 
 * **Key components:** LEDs, servo motor, piezo buzzer
 
-<img src = ElectronicsBoardGraphic.jpg
+<img src = ElectronicsBoardGraphic.jpeg
 alt = "Electronics Board Layout">
 
 ## Bill of Materials
